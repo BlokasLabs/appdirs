@@ -1,0 +1,5 @@
+appdirs (1.2.0+git20130326-1) unstable; urgency=low
+
+  * Initial version. (Closes: #737107)
+
+ -- Benjamin Drung <benjamin.drung@profitbricks.com>  Thu, 30 Jan 2014 12:21:00 +0100

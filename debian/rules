@@ -1,0 +1,10 @@
+#!/usr/bin/make -f
+
+export PYBUILD_NAME=appdirs
+export PYBUILD_TEST_ARGS=-s {dir}/test/
+
+%:
+	dh $@ --with python2,python3 --buildsystem=pybuild
+
+override_dh_installchangelogs:
+	dh_installchangelogs CHANGES.rst
