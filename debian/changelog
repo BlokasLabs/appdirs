@@ -1,3 +1,10 @@
+appdirs (1.3.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * debian/rules: Add missing test/__init__.py for tests.
+
+ -- Benjamin Drung <benjamin.drung@profitbricks.com>  Thu, 24 Apr 2014 11:12:32 +0200
+
 appdirs (1.2.0+git20130326-1) unstable; urgency=low
 
   * Initial version. (Closes: #737107)
