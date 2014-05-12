@@ -1,3 +1,9 @@
+appdirs (1.3.0-2) unstable; urgency=medium
+
+  * Remove appdirs-1.3.0.egg-info symlink on upgrade. (Closes: #747088)
+
+ -- Benjamin Drung <benjamin.drung@profitbricks.com>  Mon, 12 May 2014 11:54:33 +0200
+
 appdirs (1.3.0-1) unstable; urgency=medium
 
   * New upstream release.
