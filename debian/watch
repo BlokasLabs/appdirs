@@ -1,2 +1,2 @@
 version=3
-https://pypi.python.org/packages/source/a/appdirs/appdirs-(.+)(?:\.zip|\.tar\.(?:gz|bz2|xz))
+http://pypi.debian.net/appdirs/appdirs-(.+)(?:\.zip|\.tar\.(?:gz|bz2|xz))
