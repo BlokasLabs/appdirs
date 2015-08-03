@@ -1,3 +1,12 @@
+appdirs (1.4.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Use pypi.debian.net redirector for debian/watch
+  * Bump Standards-Version to 3.9.6 (no changes required)
+  * Update Vcs-Browser to point to cgit URL
+
+ -- Benjamin Drung <benjamin.drung@profitbricks.com>  Mon, 03 Aug 2015 13:22:35 +0200
+
 appdirs (1.3.0-2) unstable; urgency=medium
 
   * Remove appdirs-1.3.0.egg-info symlink on upgrade. (Closes: #747088)
