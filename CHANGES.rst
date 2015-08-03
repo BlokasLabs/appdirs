@@ -1,6 +1,13 @@
 appdirs Changelog
 =================
 
+appdirs 1.4.0
+-------------
+- [PR #42] AppAuthor is now optional on Windows
+- [issue 41] Support Jython on Windows, Mac, and Unix-like platforms. Windows
+  support requires `JNA <https://github.com/twall/jna>`_.
+- [PR #44] Fix incorrect behaviour of the site_config_dir method
+
 appdirs 1.3.0
 -------------
 - [Unix, issue 16] Conform to XDG standard, instead of breaking it for
