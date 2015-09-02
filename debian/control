@@ -5,12 +5,12 @@ Section: python
 Priority: optional
 Build-Depends: debhelper (>= 9),
                dh-python,
+               pypy,
+               pypy-setuptools,
                python-all (>= 2.6.6-3~),
                python-setuptools (>= 0.6b3),
                python3-all,
-               python3-setuptools,
-               pypy,
-               pypy-setuptools
+               python3-setuptools
 X-Python-Version: >= 2.4
 X-Python3-Version: >= 3.0
 Standards-Version: 3.9.6
