@@ -1,3 +1,10 @@
+appdirs (1.4.0-2) unstable; urgency=medium
+
+  * Build pypy-appdirs package.
+  * Add myself to Uploaders.
+
+ -- Tristan Seligmann <mithrandi@debian.org>  Wed, 02 Sep 2015 15:49:47 +0200
+
 appdirs (1.4.0-1) unstable; urgency=medium
 
   * New upstream release.
