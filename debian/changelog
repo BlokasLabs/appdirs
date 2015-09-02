@@ -2,6 +2,7 @@ appdirs (1.4.0-2) unstable; urgency=medium
 
   * Build pypy-appdirs package.
   * Add myself to Uploaders.
+  * Add autopkgtest support.
 
  -- Tristan Seligmann <mithrandi@debian.org>  Wed, 02 Sep 2015 15:49:47 +0200
 
