@@ -1,3 +1,9 @@
+appdirs (1.4.0-4) UNRELEASED; urgency=medium
+
+  * Ship .pydist files for appdirs.
+
+ -- Tristan Seligmann <mithrandi@debian.org>  Fri, 04 Sep 2015 07:09:11 +0200
+
 appdirs (1.4.0-3) unstable; urgency=medium
 
   * Mention Eddy Petrișor in copyright file (Closes: #848313)
