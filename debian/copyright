@@ -3,7 +3,8 @@ Upstream-Name: appdirs
 Source: https://github.com/ActiveState/appdirs
 
 Files: *
-Copyright: 2010 ActiveState Software Inc.
+Copyright: 2005-2010 ActiveState Software Inc.
+           2013 Eddy Petrișor
 License: MIT
 
 Files: debian/*
