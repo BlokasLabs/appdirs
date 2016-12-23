@@ -1,3 +1,12 @@
+appdirs (1.4.0-3) unstable; urgency=medium
+
+  * Mention Eddy Petrișor in copyright file (Closes: #848313)
+  * Bump Standards-Version to 3.9.8 (no changes needed)
+  * Use https for copyright format specification
+  * Use secure HTTPS for git URIs
+
+ -- Benjamin Drung <benjamin.drung@profitbricks.com>  Fri, 23 Dec 2016 14:30:01 +0100
+
 appdirs (1.4.0-2) unstable; urgency=medium
 
   * Build pypy-appdirs package.
