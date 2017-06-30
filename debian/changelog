@@ -1,8 +1,13 @@
-appdirs (1.4.0-4) UNRELEASED; urgency=medium
+appdirs (1.4.3-1) unstable; urgency=medium
 
+  * New upstream release.
   * Ship .pydist files for appdirs.
+  * Ignore egg-info for source package.
+  * Drop some unnecessary dependency versions.
+  * Bump Standards-Version to 4.0.0 (no changes)
+  * Use "Expat" short license name as this is preferred to "MIT".
 
- -- Tristan Seligmann <mithrandi@debian.org>  Fri, 04 Sep 2015 07:09:11 +0200
+ -- Tristan Seligmann <mithrandi@debian.org>  Fri, 30 Jun 2017 02:24:10 +0200
 
 appdirs (1.4.0-3) unstable; urgency=medium
 

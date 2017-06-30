@@ -5,13 +5,13 @@ Source: https://github.com/ActiveState/appdirs
 Files: *
 Copyright: 2005-2010 ActiveState Software Inc.
            2013 Eddy Petrișor
-License: MIT
+License: Expat
 
 Files: debian/*
 Copyright: 2014 Benjamin Drung <benjamin.drung@profitbricks.com>
-License: MIT
+License: Expat
 
-License: MIT
+License: Expat
  Permission is hereby granted, free of charge, to any person obtaining a
  copy of this software and associated documentation files (the
  "Software"), to deal in the Software without restriction, including
