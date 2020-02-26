@@ -3,7 +3,7 @@ set -e
 set -x
 SRC="${PWD}"
 cd "${ADTTMP}"
-for py in $(pyversions -vi) $(py3versions -vi) ; do
-    python$py -m unittest discover -s "${SRC}"/test
+for py in $(py3versions -vi) ; do
+    "python$py" -m unittest discover -s "${SRC}"/test
 done
 pypy -m unittest discover -s "${SRC}"/test
