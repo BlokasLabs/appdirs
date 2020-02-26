@@ -9,6 +9,7 @@ Build-Depends: debhelper-compat (= 12),
                pypy-setuptools,
                python3-all,
                python3-setuptools
+Rules-Requires-Root: no
 Standards-Version: 4.5.0
 Homepage: https://github.com/ActiveState/appdirs
 Vcs-Browser: https://salsa.debian.org/debian/appdirs
