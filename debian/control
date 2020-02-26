@@ -15,8 +15,8 @@ X-Python-Version: >= 2.4
 X-Python3-Version: >= 3.0
 Standards-Version: 4.0.0
 Homepage: https://github.com/ActiveState/appdirs
-Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/appdirs.git
-Vcs-Git: https://anonscm.debian.org/git/collab-maint/appdirs.git
+Vcs-Browser: https://salsa.debian.org/debian/appdirs
+Vcs-Git: https://salsa.debian.org/debian/appdirs.git
 
 Package: python-appdirs
 Architecture: all
