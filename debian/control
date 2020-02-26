@@ -3,7 +3,7 @@ Maintainer: Benjamin Drung <benjamin.drung@cloud.ionos.com>
 Uploaders: Tristan Seligmann <mithrandi@debian.org>
 Section: python
 Priority: optional
-Build-Depends: debhelper (>= 9),
+Build-Depends: debhelper-compat (= 12),
                dh-python,
                pypy,
                pypy-setuptools,
