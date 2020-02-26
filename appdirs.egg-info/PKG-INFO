@@ -1,10 +1,10 @@
 Metadata-Version: 1.1
 Name: appdirs
-Version: 1.4.0
-Summary: A small Python module for determining appropriate " +         "platform-specific dirs, e.g. a "user data dir".
+Version: 1.4.3
+Summary: A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 Home-page: http://github.com/ActiveState/appdirs
-Author: Trent Mick; Sridhar Ratnakumar
-Author-email: trentm@gmail.com; github@srid.name
+Author: Trent Mick; Sridhar Ratnakumar; Jeff Rouse
+Author-email: trentm@gmail.com; github@srid.name; jr@its.to
 License: MIT
 Description: 
         .. image:: https://secure.travis-ci.org/ActiveState/appdirs.png
@@ -150,6 +150,22 @@ Description:
         appdirs Changelog
         =================
         
+        appdirs 1.4.3
+        -------------
+        - [PR #76] Python 3.6 invalid escape sequence deprecation fixes
+        - Fix for Python 3.6 support
+        
+        appdirs 1.4.2
+        -------------
+        - [PR #84] Allow installing without setuptools
+        - [PR #86] Fix string delimiters in setup.py description
+        - Add Python 3.6 support
+        
+        appdirs 1.4.1
+        -------------
+        - [issue #38] Fix _winreg import on Windows Py3
+        - [issue #55] Make appname optional
+        
         appdirs 1.4.0
         -------------
         - [PR #42] AppAuthor is now optional on Windows
@@ -163,7 +179,7 @@ Description:
           everybody
         - [Unix] Removes gratuitous case mangling of the case, since \*nix-es are
           usually case sensitive, so mangling is not wise
-        - [Unix] Fixes the uterly wrong behaviour in ``site_data_dir``, return result
+        - [Unix] Fixes the utterly wrong behaviour in ``site_data_dir``, return result
           based on XDG_DATA_DIRS and make room for respecting the standard which
           specifies XDG_DATA_DIRS is a multiple-value variable
         - [Issue 6] Add ``*_config_dir`` which are distinct on nix-es, according to
@@ -223,11 +239,14 @@ Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Classifier: Programming Language :: Python :: 2
-Classifier: Programming Language :: Python :: 2.4
-Classifier: Programming Language :: Python :: 2.5
 Classifier: Programming Language :: Python :: 2.6
 Classifier: Programming Language :: Python :: 2.7
 Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3.1
 Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: Implementation :: CPython
 Classifier: Topic :: Software Development :: Libraries :: Python Modules

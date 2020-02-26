@@ -1,7 +1,6 @@
 CHANGES.rst
 LICENSE.txt
 MANIFEST.in
-Makefile.py
 README.rst
 appdirs.py
 setup.cfg
