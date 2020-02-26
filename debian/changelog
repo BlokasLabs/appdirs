@@ -1,3 +1,18 @@
+appdirs (1.4.3-2) unstable; urgency=medium
+
+  * Move repository to salsa.debian.org
+  * Update my email address to @cloud.ionos.com
+  * Switch to debhelper 12
+  * Drop Python 2 support (Closes: #936127)
+  * Bump Standards-Version to 4.5.0 (no changes required)
+  * Split autopkgtest into separate tests for Python 3 and Pypy
+  * Drop ancient X-Python3-Version field
+  * Use https for debian/watch
+  * Check DEB_BUILD_OPTIONS in override_dh_auto_test
+  * Set Rules-Requires-Root: no
+
+ -- Benjamin Drung <benjamin.drung@cloud.ionos.com>  Wed, 26 Feb 2020 21:13:19 +0100
+
 appdirs (1.4.3-1) unstable; urgency=medium
 
   * New upstream release.
