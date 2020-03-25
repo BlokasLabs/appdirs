@@ -1,3 +1,11 @@
+appdirs (1.4.3-2.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Fix autopkgtest to reliably run with multiple python3 versions installed
+    (Closes: #954222)
+
+ -- Scott Kitterman <scott@kitterman.com>  Wed, 25 Mar 2020 08:38:40 -0400
+
 appdirs (1.4.3-2) unstable; urgency=medium
 
   * Move repository to salsa.debian.org
