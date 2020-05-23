@@ -1,12 +1,13 @@
-appdirs (1.4.3-3) UNRELEASED; urgency=medium
+appdirs (1.4.4-1) UNRELEASED; urgency=medium
 
   * Agreed maintainer change to DPMT.
     - Set Debian Python Modules Team as maintainer
     - Move Benjamin Drung to Uploaders
     - Add myself to Uploaders
     - Update Vcs-* for DPMT
+  * New upstream release
 
- -- Scott Kitterman <scott@kitterman.com>  Sat, 23 May 2020 00:26:43 -0400
+ -- Scott Kitterman <scott@kitterman.com>  Sat, 23 May 2020 00:29:39 -0400
 
 appdirs (1.4.3-2.1) unstable; urgency=medium
 
