@@ -1,10 +1,16 @@
+.gitignore
+.travis.yml
 CHANGES.rst
+Dockerfile
+HACKING.md
 LICENSE.txt
 MANIFEST.in
 README.rst
+TODO.md
 appdirs.py
 setup.cfg
 setup.py
+tox.ini
 appdirs.egg-info/PKG-INFO
 appdirs.egg-info/SOURCES.txt
 appdirs.egg-info/dependency_links.txt
