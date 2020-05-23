@@ -1,6 +1,7 @@
 Source: appdirs
-Maintainer: Benjamin Drung <benjamin.drung@cloud.ionos.com>
-Uploaders: Tristan Seligmann <mithrandi@debian.org>
+Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Uploaders: Benjamin Drung <benjamin.drung@cloud.ionos.com>,
+ Tristan Seligmann <mithrandi@debian.org>, Scott Kitterman <scott@kitterman.com>
 Section: python
 Priority: optional
 Build-Depends: debhelper-compat (= 12),
@@ -12,8 +13,8 @@ Build-Depends: debhelper-compat (= 12),
 Rules-Requires-Root: no
 Standards-Version: 4.5.0
 Homepage: https://github.com/ActiveState/appdirs
-Vcs-Browser: https://salsa.debian.org/debian/appdirs
-Vcs-Git: https://salsa.debian.org/debian/appdirs.git
+Vcs-Browser: https://salsa.debian.org/python-team/modules/appdirs
+Vcs-Git: https://salsa.debian.org/python-team/modules/appdirs.git
 
 Package: python3-appdirs
 Architecture: all
