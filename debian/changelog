@@ -1,6 +1,8 @@
 appdirs (1.4.4-2) UNRELEASED; urgency=medium
 
   * d/tests: Use AUTOPKGTEST_TMP instead of ADTTMP.
+  * d/control: Update Maintainer field with new Debian Python Team
+    contact address.
 
  -- Ondřej Nový <onovy@debian.org>  Thu, 24 Sep 2020 08:42:13 +0200
 

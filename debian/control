@@ -1,5 +1,5 @@
 Source: appdirs
-Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Maintainer: Debian Python Team <team+python@tracker.debian.org>
 Uploaders: Benjamin Drung <benjamin.drung@cloud.ionos.com>,
  Tristan Seligmann <mithrandi@debian.org>, Scott Kitterman <scott@kitterman.com>
 Section: python
