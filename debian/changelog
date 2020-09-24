@@ -1,3 +1,9 @@
+appdirs (1.4.4-2) UNRELEASED; urgency=medium
+
+  * d/tests: Use AUTOPKGTEST_TMP instead of ADTTMP.
+
+ -- Ondřej Nový <onovy@debian.org>  Thu, 24 Sep 2020 08:42:13 +0200
+
 appdirs (1.4.4-1) unstable; urgency=medium
 
   * Agreed maintainer change to DPMT.
