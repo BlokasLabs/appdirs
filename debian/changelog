@@ -1,4 +1,11 @@
-appdirs (1.4.4-2) UNRELEASED; urgency=medium
+appdirs (1.4.4-2) unstable; urgency=medium
+
+  [ Benjamin Drung ]
+  * Team upload
+  * Remove myself from Uploaders
+  * Update year in d/copyright
+  * Bump Standards-Version to 4.6.0
+  * Switch to debhelper 13
 
   [ Ondřej Nový ]
   * d/tests: Use AUTOPKGTEST_TMP instead of ADTTMP.
@@ -11,7 +18,7 @@ appdirs (1.4.4-2) UNRELEASED; urgency=medium
   * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
     Repository-Browse.
 
- -- Ondřej Nový <onovy@debian.org>  Thu, 24 Sep 2020 08:42:13 +0200
+ -- Benjamin Drung <benjamin.drung@ionos.com>  Wed, 19 Jan 2022 11:44:10 +0100
 
 appdirs (1.4.4-1) unstable; urgency=medium
 
