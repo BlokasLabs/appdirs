@@ -4,7 +4,7 @@ Uploaders: Tristan Seligmann <mithrandi@debian.org>,
            Scott Kitterman <scott@kitterman.com>
 Section: python
 Priority: optional
-Build-Depends: debhelper-compat (= 12),
+Build-Depends: debhelper-compat (= 13),
                dh-python,
                pypy,
                pypy-setuptools,
