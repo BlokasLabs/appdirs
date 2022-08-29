@@ -1,3 +1,9 @@
+appdirs (1.4.4-3) UNRELEASED; urgency=medium
+
+  * drop pypy support; Closes: #1018738
+
+ -- Sandro Tosi <morph@debian.org>  Mon, 29 Aug 2022 16:54:13 -0400
+
 appdirs (1.4.4-2) unstable; urgency=medium
 
   [ Benjamin Drung ]
