@@ -1,7 +1,6 @@
 Source: appdirs
 Maintainer: Debian Python Team <team+python@tracker.debian.org>
-Uploaders: Tristan Seligmann <mithrandi@debian.org>,
-           Scott Kitterman <scott@kitterman.com>
+Uploaders: Scott Kitterman <scott@kitterman.com>
 Section: python
 Priority: optional
 Build-Depends: debhelper-compat (= 13),
