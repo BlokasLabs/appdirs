@@ -1,3 +1,10 @@
+appdirs (1.4.4-4) unstable; urgency=medium
+
+  * Team upload
+  * Remove retired uploader
+
+ -- Bastian Germann <bage@debian.org>  Thu, 13 Jul 2023 13:45:00 +0200
+
 appdirs (1.4.4-3) unstable; urgency=medium
 
   * drop pypy support; Closes: #1018738
