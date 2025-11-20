@@ -1,3 +1,9 @@
+appdirs (1.4.4-5) unstable; urgency=medium
+
+  * Rebuilt for trixie.
+
+ -- Giedrius Trainavičius <giedrius@blokas.io>  Thu, 20 Nov 2025 10:32:11 +0200
+
 appdirs (1.4.4-4) unstable; urgency=medium
 
   * Team upload
